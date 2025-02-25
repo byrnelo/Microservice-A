@@ -1,5 +1,6 @@
 # Event Microservice
 ## Is your event on a holiday?
+##Need Python3 installed along with the Pillow and Holiday packages
 
 # Communication Contract
 ## How to REQUEST Data
