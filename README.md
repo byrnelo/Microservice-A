@@ -20,4 +20,4 @@
 
 
 # UML sequence diagram:
-![alt text](image.png)
+##![alt text](<UML Screenshot.jpg>)
